@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "0a42",
+      "name": "Oso",
+      "price": "15",
+      "image": "https://s11.aconvert.com/convert/p3r68-cdx67/kk88r-l5lth.jpg"
+    },
+    {
+      "id": "9a80",
+      "name": "Burbuja",
+      "price": "20",
+      "image": "https://s11.aconvert.com/convert/p3r68-cdx67/72u7w-t6d4p.webp"
+    },
+    {
+      "id": "9d20",
+      "name": "Arbol",
+      "price": "10",
+      "image": "https://s11.aconvert.com/convert/p3r68-cdx67/70wyk-rayvx.webp"
+    },
+    {
+      "id": "669e",
+      "name": "Flor",
+      "price": "10",
+      "image": "https://s11.aconvert.com/convert/p3r68-cdx67/yccxr-90giu.jpg"
+    }
+  ]
+}
